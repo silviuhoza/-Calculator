@@ -46,8 +46,6 @@ function calculateResults() {
     console.log('Please check your numbers');
     showError('Please check your numbers');
   }
-
-
 }
 
 // Show Error
